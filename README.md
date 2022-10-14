@@ -21,6 +21,6 @@
 
 ・サーバーの接続終了するときは「exit」
 
-・　「gem install bundler」でgem構成管理ツールとしてgemのインストールをする
+・　「gem install bundler」で構成管理のbundlerをインストールをする
 
-・
+・「bundle install」でgemのインストールをする
