@@ -25,12 +25,20 @@
 
 ・「bundle install」でgemのインストールをする
 
-・その他調べて解決したこと
+・その他調べたり質問し解決したこと
 
 ・GPGキーのエラー解決
 https://blog.katsubemakito.net/mysql/mysql-update-error-gpg
 
 ・MYSQLのrootパスワード変更
+
+・database.ymlの１７行目のパスワードを変更して保存
+
+・mysql -u root -pで変更したパスワードでログインできればOK
+
+・Can't connect to local MySQL server through socket '/tmp/mysql.sock'はソケットのパスが合わないというエラー
+
+・database.ymlの２２行目と３０行目のsoketを/tmp/mysql.sock から/var/lib/mysql/mysql.sockに変更して保存
 
 
 
