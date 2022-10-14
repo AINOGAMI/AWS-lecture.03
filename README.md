@@ -44,4 +44,4 @@ https://blog.katsubemakito.net/mysql/mysql-update-error-gpg
 
 ・　この後はサーバーをもう一度起動しないといけないので、「bundle exec rails s」
 
-https://1ed540e49ba846e0bfa8647aa4268049.vfs.cloud9.us-west-1.amazonaws.com/fruits
+https://1ed540e49ba846e0bfa8647aa4268049.vfs.cloud9.us-west-1.amazonaws.com/
