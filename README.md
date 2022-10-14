@@ -40,6 +40,6 @@ https://blog.katsubemakito.net/mysql/mysql-update-error-gpg
 
 ・database.ymlの２２行目と３０行目のsoketを/tmp/mysql.sock から/var/lib/mysql/mysql.sockに変更して保存
 
-
+・　ブラウザで表示しようとしたらwebpackerのエラーが出てくるので、yarnインストール、node.jpはインストール済みだったのでwebpackerインストール
 
 https://1ed540e49ba846e0bfa8647aa4268049.vfs.cloud9.us-west-1.amazonaws.com/fruits
