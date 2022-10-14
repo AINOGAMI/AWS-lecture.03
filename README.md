@@ -24,3 +24,14 @@
 ・　「gem install bundler」で構成管理のbundlerをインストールをする
 
 ・「bundle install」でgemのインストールをする
+
+・その他調べて解決したこと
+
+・GPGキーのエラー解決
+https://blog.katsubemakito.net/mysql/mysql-update-error-gpg
+
+・MYSQLのrootパスワード変更
+
+
+
+https://1ed540e49ba846e0bfa8647aa4268049.vfs.cloud9.us-west-1.amazonaws.com/fruits
